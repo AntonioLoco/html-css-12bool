@@ -1,0 +1,22 @@
+/* COMMON */
+section{
+    margin-bottom: 1em;
+}
+
+/*Decoration Col */
+.col-decoration{
+    padding: 1em;
+    color: white;
+    background-color: #006cfa;
+    border: 1px solid white;
+    text-align: center;
+}
+
+/* Inner col Decoretion */
+.inner-col{
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid white;
+    background-color: green;
+}
