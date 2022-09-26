@@ -20,3 +20,17 @@ section{
     border: 1px solid white;
     background-color: green;
 }
+
+/* Disegno */
+.col-paint{
+    height: 25px;
+    border: 1px solid black;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.black{
+    background-color: black;
+}
